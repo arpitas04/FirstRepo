@@ -29,6 +29,13 @@ section {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
+.skills-card {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
 .project-card {
   margin-top: 1rem;
   padding: 1rem;
